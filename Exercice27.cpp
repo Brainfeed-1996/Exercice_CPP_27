@@ -41,4 +41,13 @@ leur quotient est : 0.5
 
 
 === Code Execution Successful ===
+
+Résultat pour la division par 0 :
+
+donnez deux nombres réels : 50
+0
+leur somme est : 50
+leur différence est : 50
+leur produit est : 0
+leur quotient est : inf
 */
